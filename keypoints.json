@@ -1,0 +1,3485 @@
+[
+    {
+        "frame": 1,
+        "knee_angle": 177,
+        "elbow_angle": 170,
+        "body_lean": 179
+    },
+    {
+        "frame": 2,
+        "knee_angle": 177,
+        "elbow_angle": 169,
+        "body_lean": 178
+    },
+    {
+        "frame": 3,
+        "knee_angle": 176,
+        "elbow_angle": 170,
+        "body_lean": 178
+    },
+    {
+        "frame": 4,
+        "knee_angle": 177,
+        "elbow_angle": 169,
+        "body_lean": 177
+    },
+    {
+        "frame": 5,
+        "knee_angle": 176,
+        "elbow_angle": 172,
+        "body_lean": 177
+    },
+    {
+        "frame": 6,
+        "knee_angle": 176,
+        "elbow_angle": 170,
+        "body_lean": 177
+    },
+    {
+        "frame": 7,
+        "knee_angle": 177,
+        "elbow_angle": 172,
+        "body_lean": 177
+    },
+    {
+        "frame": 8,
+        "knee_angle": 178,
+        "elbow_angle": 171,
+        "body_lean": 177
+    },
+    {
+        "frame": 9,
+        "knee_angle": 178,
+        "elbow_angle": 169,
+        "body_lean": 177
+    },
+    {
+        "frame": 10,
+        "knee_angle": 172,
+        "elbow_angle": 170,
+        "body_lean": 174
+    },
+    {
+        "frame": 11,
+        "knee_angle": 170,
+        "elbow_angle": 172,
+        "body_lean": 177
+    },
+    {
+        "frame": 12,
+        "knee_angle": 174,
+        "elbow_angle": 169,
+        "body_lean": 177
+    },
+    {
+        "frame": 13,
+        "knee_angle": 178,
+        "elbow_angle": 168,
+        "body_lean": 174
+    },
+    {
+        "frame": 14,
+        "knee_angle": 175,
+        "elbow_angle": 167,
+        "body_lean": 178
+    },
+    {
+        "frame": 15,
+        "knee_angle": 176,
+        "elbow_angle": 169,
+        "body_lean": 178
+    },
+    {
+        "frame": 16,
+        "knee_angle": 175,
+        "elbow_angle": 167,
+        "body_lean": 178
+    },
+    {
+        "frame": 17,
+        "knee_angle": 175,
+        "elbow_angle": 170,
+        "body_lean": 178
+    },
+    {
+        "frame": 18,
+        "knee_angle": 174,
+        "elbow_angle": 170,
+        "body_lean": 179
+    },
+    {
+        "frame": 19,
+        "knee_angle": 179,
+        "elbow_angle": 173,
+        "body_lean": 178
+    },
+    {
+        "frame": 20,
+        "knee_angle": 179,
+        "elbow_angle": 169,
+        "body_lean": 178
+    },
+    {
+        "frame": 21,
+        "knee_angle": 179,
+        "elbow_angle": 167,
+        "body_lean": 178
+    },
+    {
+        "frame": 22,
+        "knee_angle": 178,
+        "elbow_angle": 168,
+        "body_lean": 178
+    },
+    {
+        "frame": 23,
+        "knee_angle": 178,
+        "elbow_angle": 170,
+        "body_lean": 178
+    },
+    {
+        "frame": 24,
+        "knee_angle": 179,
+        "elbow_angle": 171,
+        "body_lean": 178
+    },
+    {
+        "frame": 25,
+        "knee_angle": 173,
+        "elbow_angle": 171,
+        "body_lean": 178
+    },
+    {
+        "frame": 26,
+        "knee_angle": 170,
+        "elbow_angle": 171,
+        "body_lean": 179
+    },
+    {
+        "frame": 27,
+        "knee_angle": 171,
+        "elbow_angle": 171,
+        "body_lean": 179
+    },
+    {
+        "frame": 28,
+        "knee_angle": 168,
+        "elbow_angle": 170,
+        "body_lean": 179
+    },
+    {
+        "frame": 29,
+        "knee_angle": 168,
+        "elbow_angle": 170,
+        "body_lean": 179
+    },
+    {
+        "frame": 30,
+        "knee_angle": 168,
+        "elbow_angle": 170,
+        "body_lean": 179
+    },
+    {
+        "frame": 31,
+        "knee_angle": 169,
+        "elbow_angle": 168,
+        "body_lean": 178
+    },
+    {
+        "frame": 32,
+        "knee_angle": 169,
+        "elbow_angle": 167,
+        "body_lean": 178
+    },
+    {
+        "frame": 33,
+        "knee_angle": 170,
+        "elbow_angle": 168,
+        "body_lean": 178
+    },
+    {
+        "frame": 34,
+        "knee_angle": 168,
+        "elbow_angle": 172,
+        "body_lean": 178
+    },
+    {
+        "frame": 35,
+        "knee_angle": 168,
+        "elbow_angle": 172,
+        "body_lean": 178
+    },
+    {
+        "frame": 36,
+        "knee_angle": 167,
+        "elbow_angle": 173,
+        "body_lean": 178
+    },
+    {
+        "frame": 37,
+        "knee_angle": 165,
+        "elbow_angle": 171,
+        "body_lean": 179
+    },
+    {
+        "frame": 38,
+        "knee_angle": 173,
+        "elbow_angle": 169,
+        "body_lean": 178
+    },
+    {
+        "frame": 39,
+        "knee_angle": 171,
+        "elbow_angle": 170,
+        "body_lean": 178
+    },
+    {
+        "frame": 40,
+        "knee_angle": 165,
+        "elbow_angle": 173,
+        "body_lean": 178
+    },
+    {
+        "frame": 41,
+        "knee_angle": 168,
+        "elbow_angle": 173,
+        "body_lean": 177
+    },
+    {
+        "frame": 42,
+        "knee_angle": 170,
+        "elbow_angle": 172,
+        "body_lean": 177
+    },
+    {
+        "frame": 43,
+        "knee_angle": 168,
+        "elbow_angle": 171,
+        "body_lean": 177
+    },
+    {
+        "frame": 44,
+        "knee_angle": 167,
+        "elbow_angle": 173,
+        "body_lean": 177
+    },
+    {
+        "frame": 45,
+        "knee_angle": 168,
+        "elbow_angle": 172,
+        "body_lean": 177
+    },
+    {
+        "frame": 46,
+        "knee_angle": 169,
+        "elbow_angle": 172,
+        "body_lean": 178
+    },
+    {
+        "frame": 47,
+        "knee_angle": 165,
+        "elbow_angle": 172,
+        "body_lean": 179
+    },
+    {
+        "frame": 48,
+        "knee_angle": 163,
+        "elbow_angle": 172,
+        "body_lean": 179
+    },
+    {
+        "frame": 49,
+        "knee_angle": 167,
+        "elbow_angle": 172,
+        "body_lean": 179
+    },
+    {
+        "frame": 50,
+        "knee_angle": 166,
+        "elbow_angle": 170,
+        "body_lean": 178
+    },
+    {
+        "frame": 51,
+        "knee_angle": 168,
+        "elbow_angle": 172,
+        "body_lean": 178
+    },
+    {
+        "frame": 52,
+        "knee_angle": 170,
+        "elbow_angle": 171,
+        "body_lean": 177
+    },
+    {
+        "frame": 53,
+        "knee_angle": 169,
+        "elbow_angle": 170,
+        "body_lean": 178
+    },
+    {
+        "frame": 54,
+        "knee_angle": 167,
+        "elbow_angle": 173,
+        "body_lean": 177
+    },
+    {
+        "frame": 55,
+        "knee_angle": 169,
+        "elbow_angle": 175,
+        "body_lean": 177
+    },
+    {
+        "frame": 56,
+        "knee_angle": 168,
+        "elbow_angle": 173,
+        "body_lean": 179
+    },
+    {
+        "frame": 57,
+        "knee_angle": 166,
+        "elbow_angle": 172,
+        "body_lean": 179
+    },
+    {
+        "frame": 58,
+        "knee_angle": 165,
+        "elbow_angle": 171,
+        "body_lean": 179
+    },
+    {
+        "frame": 59,
+        "knee_angle": 165,
+        "elbow_angle": 170,
+        "body_lean": 179
+    },
+    {
+        "frame": 60,
+        "knee_angle": 165,
+        "elbow_angle": 169,
+        "body_lean": 179
+    },
+    {
+        "frame": 61,
+        "knee_angle": 165,
+        "elbow_angle": 166,
+        "body_lean": 179
+    },
+    {
+        "frame": 62,
+        "knee_angle": 164,
+        "elbow_angle": 168,
+        "body_lean": 179
+    },
+    {
+        "frame": 63,
+        "knee_angle": 165,
+        "elbow_angle": 172,
+        "body_lean": 178
+    },
+    {
+        "frame": 64,
+        "knee_angle": 167,
+        "elbow_angle": 170,
+        "body_lean": 179
+    },
+    {
+        "frame": 65,
+        "knee_angle": 168,
+        "elbow_angle": 170,
+        "body_lean": 179
+    },
+    {
+        "frame": 66,
+        "knee_angle": 168,
+        "elbow_angle": 167,
+        "body_lean": 179
+    },
+    {
+        "frame": 67,
+        "knee_angle": 167,
+        "elbow_angle": 168,
+        "body_lean": 177
+    },
+    {
+        "frame": 68,
+        "knee_angle": 168,
+        "elbow_angle": 164,
+        "body_lean": 177
+    },
+    {
+        "frame": 69,
+        "knee_angle": 167,
+        "elbow_angle": 171,
+        "body_lean": 177
+    },
+    {
+        "frame": 70,
+        "knee_angle": 164,
+        "elbow_angle": 179,
+        "body_lean": 178
+    },
+    {
+        "frame": 71,
+        "knee_angle": 166,
+        "elbow_angle": 176,
+        "body_lean": 179
+    },
+    {
+        "frame": 72,
+        "knee_angle": 177,
+        "elbow_angle": 175,
+        "body_lean": 179
+    },
+    {
+        "frame": 73,
+        "knee_angle": 156,
+        "elbow_angle": 136,
+        "body_lean": 179
+    },
+    {
+        "frame": 74,
+        "knee_angle": 146,
+        "elbow_angle": 168,
+        "body_lean": 179
+    },
+    {
+        "frame": 75,
+        "knee_angle": 152,
+        "elbow_angle": 160,
+        "body_lean": 178
+    },
+    {
+        "frame": 76,
+        "knee_angle": 110,
+        "elbow_angle": 164,
+        "body_lean": 177
+    },
+    {
+        "frame": 77,
+        "knee_angle": 102,
+        "elbow_angle": 148,
+        "body_lean": 175
+    },
+    {
+        "frame": 78,
+        "knee_angle": 100,
+        "elbow_angle": 175,
+        "body_lean": 175
+    },
+    {
+        "frame": 79,
+        "knee_angle": 95,
+        "elbow_angle": 149,
+        "body_lean": 172
+    },
+    {
+        "frame": 80,
+        "knee_angle": 92,
+        "elbow_angle": 128,
+        "body_lean": 170
+    },
+    {
+        "frame": 81,
+        "knee_angle": 116,
+        "elbow_angle": 130,
+        "body_lean": 170
+    },
+    {
+        "frame": 82,
+        "knee_angle": 157,
+        "elbow_angle": 142,
+        "body_lean": 169
+    },
+    {
+        "frame": 83,
+        "knee_angle": 173,
+        "elbow_angle": 144,
+        "body_lean": 169
+    },
+    {
+        "frame": 84,
+        "knee_angle": 171,
+        "elbow_angle": 148,
+        "body_lean": 171
+    },
+    {
+        "frame": 85,
+        "knee_angle": 145,
+        "elbow_angle": 99,
+        "body_lean": 171
+    },
+    {
+        "frame": 86,
+        "knee_angle": 134,
+        "elbow_angle": 101,
+        "body_lean": 172
+    },
+    {
+        "frame": 87,
+        "knee_angle": 138,
+        "elbow_angle": 86,
+        "body_lean": 172
+    },
+    {
+        "frame": 88,
+        "knee_angle": 166,
+        "elbow_angle": 162,
+        "body_lean": 175
+    },
+    {
+        "frame": 89,
+        "knee_angle": 109,
+        "elbow_angle": 150,
+        "body_lean": 175
+    },
+    {
+        "frame": 90,
+        "knee_angle": 105,
+        "elbow_angle": 149,
+        "body_lean": 176
+    },
+    {
+        "frame": 91,
+        "knee_angle": 164,
+        "elbow_angle": 163,
+        "body_lean": 177
+    },
+    {
+        "frame": 92,
+        "knee_angle": 160,
+        "elbow_angle": 156,
+        "body_lean": 178
+    },
+    {
+        "frame": 93,
+        "knee_angle": 158,
+        "elbow_angle": 153,
+        "body_lean": 178
+    },
+    {
+        "frame": 94,
+        "knee_angle": 163,
+        "elbow_angle": 168,
+        "body_lean": 178
+    },
+    {
+        "frame": 95,
+        "knee_angle": 161,
+        "elbow_angle": 151,
+        "body_lean": 177
+    },
+    {
+        "frame": 96,
+        "knee_angle": 164,
+        "elbow_angle": 152,
+        "body_lean": 178
+    },
+    {
+        "frame": 97,
+        "knee_angle": 169,
+        "elbow_angle": 159,
+        "body_lean": 178
+    },
+    {
+        "frame": 98,
+        "knee_angle": 167,
+        "elbow_angle": 161,
+        "body_lean": 177
+    },
+    {
+        "frame": 99,
+        "knee_angle": 168,
+        "elbow_angle": 166,
+        "body_lean": 177
+    },
+    {
+        "frame": 100,
+        "knee_angle": 166,
+        "elbow_angle": 160,
+        "body_lean": 178
+    },
+    {
+        "frame": 101,
+        "knee_angle": 165,
+        "elbow_angle": 162,
+        "body_lean": 177
+    },
+    {
+        "frame": 102,
+        "knee_angle": 164,
+        "elbow_angle": 163,
+        "body_lean": 177
+    },
+    {
+        "frame": 103,
+        "knee_angle": 161,
+        "elbow_angle": 162,
+        "body_lean": 177
+    },
+    {
+        "frame": 104,
+        "knee_angle": 162,
+        "elbow_angle": 162,
+        "body_lean": 177
+    },
+    {
+        "frame": 105,
+        "knee_angle": 162,
+        "elbow_angle": 163,
+        "body_lean": 178
+    },
+    {
+        "frame": 106,
+        "knee_angle": 158,
+        "elbow_angle": 166,
+        "body_lean": 177
+    },
+    {
+        "frame": 107,
+        "knee_angle": 157,
+        "elbow_angle": 167,
+        "body_lean": 178
+    },
+    {
+        "frame": 108,
+        "knee_angle": 156,
+        "elbow_angle": 165,
+        "body_lean": 178
+    },
+    {
+        "frame": 109,
+        "knee_angle": 154,
+        "elbow_angle": 165,
+        "body_lean": 177
+    },
+    {
+        "frame": 110,
+        "knee_angle": 152,
+        "elbow_angle": 164,
+        "body_lean": 176
+    },
+    {
+        "frame": 111,
+        "knee_angle": 154,
+        "elbow_angle": 162,
+        "body_lean": 177
+    },
+    {
+        "frame": 112,
+        "knee_angle": 153,
+        "elbow_angle": 162,
+        "body_lean": 177
+    },
+    {
+        "frame": 113,
+        "knee_angle": 152,
+        "elbow_angle": 162,
+        "body_lean": 177
+    },
+    {
+        "frame": 114,
+        "knee_angle": 151,
+        "elbow_angle": 161,
+        "body_lean": 177
+    },
+    {
+        "frame": 115,
+        "knee_angle": 157,
+        "elbow_angle": 163,
+        "body_lean": 178
+    },
+    {
+        "frame": 116,
+        "knee_angle": 178,
+        "elbow_angle": 158,
+        "body_lean": 178
+    },
+    {
+        "frame": 117,
+        "knee_angle": 167,
+        "elbow_angle": 158,
+        "body_lean": 177
+    },
+    {
+        "frame": 118,
+        "knee_angle": 141,
+        "elbow_angle": 162,
+        "body_lean": 177
+    },
+    {
+        "frame": 119,
+        "knee_angle": 138,
+        "elbow_angle": 161,
+        "body_lean": 177
+    },
+    {
+        "frame": 120,
+        "knee_angle": 136,
+        "elbow_angle": 161,
+        "body_lean": 176
+    },
+    {
+        "frame": 121,
+        "knee_angle": 134,
+        "elbow_angle": 159,
+        "body_lean": 178
+    },
+    {
+        "frame": 122,
+        "knee_angle": 137,
+        "elbow_angle": 159,
+        "body_lean": 178
+    },
+    {
+        "frame": 123,
+        "knee_angle": 134,
+        "elbow_angle": 159,
+        "body_lean": 178
+    },
+    {
+        "frame": 124,
+        "knee_angle": 130,
+        "elbow_angle": 160,
+        "body_lean": 179
+    },
+    {
+        "frame": 125,
+        "knee_angle": 131,
+        "elbow_angle": 159,
+        "body_lean": 179
+    },
+    {
+        "frame": 126,
+        "knee_angle": 134,
+        "elbow_angle": 161,
+        "body_lean": 179
+    },
+    {
+        "frame": 127,
+        "knee_angle": 138,
+        "elbow_angle": 166,
+        "body_lean": 179
+    },
+    {
+        "frame": 128,
+        "knee_angle": 139,
+        "elbow_angle": 162,
+        "body_lean": 179
+    },
+    {
+        "frame": 129,
+        "knee_angle": 143,
+        "elbow_angle": 162,
+        "body_lean": 178
+    },
+    {
+        "frame": 130,
+        "knee_angle": 140,
+        "elbow_angle": 162,
+        "body_lean": 179
+    },
+    {
+        "frame": 131,
+        "knee_angle": 142,
+        "elbow_angle": 161,
+        "body_lean": 179
+    },
+    {
+        "frame": 132,
+        "knee_angle": 143,
+        "elbow_angle": 166,
+        "body_lean": 179
+    },
+    {
+        "frame": 133,
+        "knee_angle": 142,
+        "elbow_angle": 165,
+        "body_lean": 179
+    },
+    {
+        "frame": 134,
+        "knee_angle": 144,
+        "elbow_angle": 168,
+        "body_lean": 178
+    },
+    {
+        "frame": 135,
+        "knee_angle": 144,
+        "elbow_angle": 168,
+        "body_lean": 178
+    },
+    {
+        "frame": 136,
+        "knee_angle": 149,
+        "elbow_angle": 174,
+        "body_lean": 179
+    },
+    {
+        "frame": 137,
+        "knee_angle": 150,
+        "elbow_angle": 166,
+        "body_lean": 179
+    },
+    {
+        "frame": 138,
+        "knee_angle": 149,
+        "elbow_angle": 170,
+        "body_lean": 179
+    },
+    {
+        "frame": 139,
+        "knee_angle": 158,
+        "elbow_angle": 164,
+        "body_lean": 177
+    },
+    {
+        "frame": 140,
+        "knee_angle": 158,
+        "elbow_angle": 165,
+        "body_lean": 178
+    },
+    {
+        "frame": 141,
+        "knee_angle": 160,
+        "elbow_angle": 167,
+        "body_lean": 179
+    },
+    {
+        "frame": 142,
+        "knee_angle": 171,
+        "elbow_angle": 159,
+        "body_lean": 179
+    },
+    {
+        "frame": 143,
+        "knee_angle": 171,
+        "elbow_angle": 153,
+        "body_lean": 178
+    },
+    {
+        "frame": 144,
+        "knee_angle": 169,
+        "elbow_angle": 149,
+        "body_lean": 178
+    },
+    {
+        "frame": 145,
+        "knee_angle": 170,
+        "elbow_angle": 155,
+        "body_lean": 179
+    },
+    {
+        "frame": 146,
+        "knee_angle": 172,
+        "elbow_angle": 153,
+        "body_lean": 178
+    },
+    {
+        "frame": 147,
+        "knee_angle": 172,
+        "elbow_angle": 154,
+        "body_lean": 178
+    },
+    {
+        "frame": 148
+    },
+    {
+        "frame": 149,
+        "knee_angle": 129,
+        "elbow_angle": 141,
+        "body_lean": 148
+    },
+    {
+        "frame": 150,
+        "knee_angle": 129,
+        "elbow_angle": 141,
+        "body_lean": 148
+    },
+    {
+        "frame": 151,
+        "knee_angle": 106,
+        "elbow_angle": 142,
+        "body_lean": 150
+    },
+    {
+        "frame": 152,
+        "knee_angle": 102,
+        "elbow_angle": 140,
+        "body_lean": 151
+    },
+    {
+        "frame": 153,
+        "knee_angle": 101,
+        "elbow_angle": 140,
+        "body_lean": 151
+    },
+    {
+        "frame": 154,
+        "knee_angle": 79,
+        "elbow_angle": 142,
+        "body_lean": 154
+    },
+    {
+        "frame": 155,
+        "knee_angle": 76,
+        "elbow_angle": 142,
+        "body_lean": 154
+    },
+    {
+        "frame": 156,
+        "knee_angle": 75,
+        "elbow_angle": 143,
+        "body_lean": 155
+    },
+    {
+        "frame": 157,
+        "knee_angle": 58,
+        "elbow_angle": 152,
+        "body_lean": 156
+    },
+    {
+        "frame": 158,
+        "knee_angle": 55,
+        "elbow_angle": 150,
+        "body_lean": 156
+    },
+    {
+        "frame": 159,
+        "knee_angle": 54,
+        "elbow_angle": 148,
+        "body_lean": 155
+    },
+    {
+        "frame": 160,
+        "knee_angle": 40,
+        "elbow_angle": 144,
+        "body_lean": 159
+    },
+    {
+        "frame": 161,
+        "knee_angle": 40,
+        "elbow_angle": 143,
+        "body_lean": 159
+    },
+    {
+        "frame": 162,
+        "knee_angle": 38,
+        "elbow_angle": 144,
+        "body_lean": 159
+    },
+    {
+        "frame": 163,
+        "knee_angle": 34,
+        "elbow_angle": 139,
+        "body_lean": 161
+    },
+    {
+        "frame": 164,
+        "knee_angle": 37,
+        "elbow_angle": 138,
+        "body_lean": 161
+    },
+    {
+        "frame": 165,
+        "knee_angle": 38,
+        "elbow_angle": 139,
+        "body_lean": 161
+    },
+    {
+        "frame": 166,
+        "knee_angle": 158,
+        "elbow_angle": 61,
+        "body_lean": 159
+    },
+    {
+        "frame": 167,
+        "knee_angle": 158,
+        "elbow_angle": 72,
+        "body_lean": 159
+    },
+    {
+        "frame": 168,
+        "knee_angle": 157,
+        "elbow_angle": 64,
+        "body_lean": 159
+    },
+    {
+        "frame": 169,
+        "knee_angle": 166,
+        "elbow_angle": 103,
+        "body_lean": 164
+    },
+    {
+        "frame": 170,
+        "knee_angle": 166,
+        "elbow_angle": 106,
+        "body_lean": 165
+    },
+    {
+        "frame": 171,
+        "knee_angle": 167,
+        "elbow_angle": 70,
+        "body_lean": 164
+    },
+    {
+        "frame": 172,
+        "knee_angle": 106,
+        "elbow_angle": 63,
+        "body_lean": 171
+    },
+    {
+        "frame": 173,
+        "knee_angle": 102,
+        "elbow_angle": 65,
+        "body_lean": 170
+    },
+    {
+        "frame": 174,
+        "knee_angle": 100,
+        "elbow_angle": 59,
+        "body_lean": 169
+    },
+    {
+        "frame": 175,
+        "knee_angle": 118,
+        "elbow_angle": 73,
+        "body_lean": 169
+    },
+    {
+        "frame": 176,
+        "knee_angle": 120,
+        "elbow_angle": 82,
+        "body_lean": 170
+    },
+    {
+        "frame": 177,
+        "knee_angle": 120,
+        "elbow_angle": 83,
+        "body_lean": 170
+    },
+    {
+        "frame": 178,
+        "knee_angle": 159,
+        "elbow_angle": 87,
+        "body_lean": 167
+    },
+    {
+        "frame": 179,
+        "knee_angle": 123,
+        "elbow_angle": 98,
+        "body_lean": 166
+    },
+    {
+        "frame": 180,
+        "knee_angle": 137,
+        "elbow_angle": 95,
+        "body_lean": 165
+    },
+    {
+        "frame": 181,
+        "knee_angle": 158,
+        "elbow_angle": 102,
+        "body_lean": 168
+    },
+    {
+        "frame": 182,
+        "knee_angle": 152,
+        "elbow_angle": 103,
+        "body_lean": 169
+    },
+    {
+        "frame": 183,
+        "knee_angle": 150,
+        "elbow_angle": 105,
+        "body_lean": 168
+    },
+    {
+        "frame": 184,
+        "knee_angle": 146,
+        "elbow_angle": 110,
+        "body_lean": 168
+    },
+    {
+        "frame": 185,
+        "knee_angle": 146,
+        "elbow_angle": 110,
+        "body_lean": 167
+    },
+    {
+        "frame": 186,
+        "knee_angle": 148,
+        "elbow_angle": 111,
+        "body_lean": 167
+    },
+    {
+        "frame": 187,
+        "knee_angle": 160,
+        "elbow_angle": 103,
+        "body_lean": 162
+    },
+    {
+        "frame": 188,
+        "knee_angle": 159,
+        "elbow_angle": 103,
+        "body_lean": 160
+    },
+    {
+        "frame": 189,
+        "knee_angle": 162,
+        "elbow_angle": 103,
+        "body_lean": 160
+    },
+    {
+        "frame": 190,
+        "knee_angle": 151,
+        "elbow_angle": 99,
+        "body_lean": 158
+    },
+    {
+        "frame": 191,
+        "knee_angle": 156,
+        "elbow_angle": 97,
+        "body_lean": 158
+    },
+    {
+        "frame": 192,
+        "knee_angle": 155,
+        "elbow_angle": 95,
+        "body_lean": 158
+    },
+    {
+        "frame": 193,
+        "knee_angle": 147,
+        "elbow_angle": 146,
+        "body_lean": 157
+    },
+    {
+        "frame": 194,
+        "knee_angle": 142,
+        "elbow_angle": 110,
+        "body_lean": 157
+    },
+    {
+        "frame": 195,
+        "knee_angle": 145,
+        "elbow_angle": 114,
+        "body_lean": 157
+    },
+    {
+        "frame": 196,
+        "knee_angle": 164,
+        "elbow_angle": 83,
+        "body_lean": 154
+    },
+    {
+        "frame": 197,
+        "knee_angle": 166,
+        "elbow_angle": 80,
+        "body_lean": 152
+    },
+    {
+        "frame": 198,
+        "knee_angle": 165,
+        "elbow_angle": 78,
+        "body_lean": 151
+    },
+    {
+        "frame": 199,
+        "knee_angle": 166,
+        "elbow_angle": 92,
+        "body_lean": 150
+    },
+    {
+        "frame": 200,
+        "knee_angle": 166,
+        "elbow_angle": 94,
+        "body_lean": 149
+    },
+    {
+        "frame": 201,
+        "knee_angle": 167,
+        "elbow_angle": 95,
+        "body_lean": 149
+    },
+    {
+        "frame": 202,
+        "knee_angle": 156,
+        "elbow_angle": 108,
+        "body_lean": 150
+    },
+    {
+        "frame": 203,
+        "knee_angle": 155,
+        "elbow_angle": 111,
+        "body_lean": 151
+    },
+    {
+        "frame": 204,
+        "knee_angle": 156,
+        "elbow_angle": 113,
+        "body_lean": 151
+    },
+    {
+        "frame": 205,
+        "knee_angle": 133,
+        "elbow_angle": 124,
+        "body_lean": 153
+    },
+    {
+        "frame": 206,
+        "knee_angle": 131,
+        "elbow_angle": 125,
+        "body_lean": 153
+    },
+    {
+        "frame": 207,
+        "knee_angle": 131,
+        "elbow_angle": 126,
+        "body_lean": 153
+    },
+    {
+        "frame": 208,
+        "knee_angle": 104,
+        "elbow_angle": 140,
+        "body_lean": 155
+    },
+    {
+        "frame": 209,
+        "knee_angle": 101,
+        "elbow_angle": 143,
+        "body_lean": 156
+    },
+    {
+        "frame": 210,
+        "knee_angle": 100,
+        "elbow_angle": 142,
+        "body_lean": 155
+    },
+    {
+        "frame": 211,
+        "knee_angle": 73,
+        "elbow_angle": 142,
+        "body_lean": 156
+    },
+    {
+        "frame": 212,
+        "knee_angle": 72,
+        "elbow_angle": 141,
+        "body_lean": 157
+    },
+    {
+        "frame": 213,
+        "knee_angle": 73,
+        "elbow_angle": 140,
+        "body_lean": 157
+    },
+    {
+        "frame": 214,
+        "knee_angle": 167,
+        "elbow_angle": 138,
+        "body_lean": 159
+    },
+    {
+        "frame": 215,
+        "knee_angle": 166,
+        "elbow_angle": 135,
+        "body_lean": 159
+    },
+    {
+        "frame": 216,
+        "knee_angle": 167,
+        "elbow_angle": 135,
+        "body_lean": 160
+    },
+    {
+        "frame": 217,
+        "knee_angle": 42,
+        "elbow_angle": 134,
+        "body_lean": 161
+    },
+    {
+        "frame": 218,
+        "knee_angle": 40,
+        "elbow_angle": 136,
+        "body_lean": 161
+    },
+    {
+        "frame": 219,
+        "knee_angle": 40,
+        "elbow_angle": 138,
+        "body_lean": 161
+    },
+    {
+        "frame": 220,
+        "knee_angle": 45,
+        "elbow_angle": 127,
+        "body_lean": 163
+    },
+    {
+        "frame": 221,
+        "knee_angle": 47,
+        "elbow_angle": 116,
+        "body_lean": 164
+    },
+    {
+        "frame": 222,
+        "knee_angle": 46,
+        "elbow_angle": 114,
+        "body_lean": 163
+    },
+    {
+        "frame": 223,
+        "knee_angle": 60,
+        "elbow_angle": 106,
+        "body_lean": 165
+    },
+    {
+        "frame": 224,
+        "knee_angle": 62,
+        "elbow_angle": 102,
+        "body_lean": 165
+    },
+    {
+        "frame": 225,
+        "knee_angle": 62,
+        "elbow_angle": 102,
+        "body_lean": 165
+    },
+    {
+        "frame": 226,
+        "knee_angle": 75,
+        "elbow_angle": 52,
+        "body_lean": 169
+    },
+    {
+        "frame": 227,
+        "knee_angle": 78,
+        "elbow_angle": 55,
+        "body_lean": 170
+    },
+    {
+        "frame": 228,
+        "knee_angle": 79,
+        "elbow_angle": 39,
+        "body_lean": 170
+    },
+    {
+        "frame": 229,
+        "knee_angle": 95,
+        "elbow_angle": 67,
+        "body_lean": 173
+    },
+    {
+        "frame": 230,
+        "knee_angle": 97,
+        "elbow_angle": 78,
+        "body_lean": 175
+    },
+    {
+        "frame": 231,
+        "knee_angle": 97,
+        "elbow_angle": 81,
+        "body_lean": 177
+    },
+    {
+        "frame": 232,
+        "knee_angle": 110,
+        "elbow_angle": 86,
+        "body_lean": 176
+    },
+    {
+        "frame": 233,
+        "knee_angle": 112,
+        "elbow_angle": 87,
+        "body_lean": 175
+    },
+    {
+        "frame": 234,
+        "knee_angle": 112,
+        "elbow_angle": 88,
+        "body_lean": 175
+    },
+    {
+        "frame": 235,
+        "knee_angle": 131,
+        "elbow_angle": 90,
+        "body_lean": 175
+    },
+    {
+        "frame": 236,
+        "knee_angle": 135,
+        "elbow_angle": 92,
+        "body_lean": 174
+    },
+    {
+        "frame": 237,
+        "knee_angle": 136,
+        "elbow_angle": 93,
+        "body_lean": 174
+    },
+    {
+        "frame": 238,
+        "knee_angle": 150,
+        "elbow_angle": 86,
+        "body_lean": 174
+    },
+    {
+        "frame": 239,
+        "knee_angle": 153,
+        "elbow_angle": 88,
+        "body_lean": 174
+    },
+    {
+        "frame": 240,
+        "knee_angle": 153,
+        "elbow_angle": 89,
+        "body_lean": 174
+    },
+    {
+        "frame": 241,
+        "knee_angle": 156,
+        "elbow_angle": 98,
+        "body_lean": 174
+    },
+    {
+        "frame": 242,
+        "knee_angle": 155,
+        "elbow_angle": 101,
+        "body_lean": 174
+    },
+    {
+        "frame": 243,
+        "knee_angle": 155,
+        "elbow_angle": 101,
+        "body_lean": 173
+    },
+    {
+        "frame": 244,
+        "knee_angle": 153,
+        "elbow_angle": 116,
+        "body_lean": 171
+    },
+    {
+        "frame": 245,
+        "knee_angle": 153,
+        "elbow_angle": 113,
+        "body_lean": 170
+    },
+    {
+        "frame": 246,
+        "knee_angle": 153,
+        "elbow_angle": 109,
+        "body_lean": 169
+    },
+    {
+        "frame": 247,
+        "knee_angle": 30,
+        "elbow_angle": 113,
+        "body_lean": 163
+    },
+    {
+        "frame": 248,
+        "knee_angle": 69,
+        "elbow_angle": 105,
+        "body_lean": 161
+    },
+    {
+        "frame": 249,
+        "knee_angle": 28,
+        "elbow_angle": 105,
+        "body_lean": 160
+    },
+    {
+        "frame": 250,
+        "knee_angle": 149,
+        "elbow_angle": 87,
+        "body_lean": 159
+    },
+    {
+        "frame": 251,
+        "knee_angle": 154,
+        "elbow_angle": 81,
+        "body_lean": 159
+    },
+    {
+        "frame": 252,
+        "knee_angle": 155,
+        "elbow_angle": 80,
+        "body_lean": 159
+    },
+    {
+        "frame": 253,
+        "knee_angle": 160,
+        "elbow_angle": 91,
+        "body_lean": 158
+    },
+    {
+        "frame": 254,
+        "knee_angle": 160,
+        "elbow_angle": 92,
+        "body_lean": 157
+    },
+    {
+        "frame": 255,
+        "knee_angle": 161,
+        "elbow_angle": 91,
+        "body_lean": 156
+    },
+    {
+        "frame": 256,
+        "knee_angle": 170,
+        "elbow_angle": 102,
+        "body_lean": 157
+    },
+    {
+        "frame": 257,
+        "knee_angle": 171,
+        "elbow_angle": 103,
+        "body_lean": 157
+    },
+    {
+        "frame": 258,
+        "knee_angle": 171,
+        "elbow_angle": 103,
+        "body_lean": 156
+    },
+    {
+        "frame": 259,
+        "knee_angle": 167,
+        "elbow_angle": 113,
+        "body_lean": 157
+    },
+    {
+        "frame": 260,
+        "knee_angle": 165,
+        "elbow_angle": 117,
+        "body_lean": 156
+    },
+    {
+        "frame": 261,
+        "knee_angle": 166,
+        "elbow_angle": 119,
+        "body_lean": 157
+    },
+    {
+        "frame": 262,
+        "knee_angle": 146,
+        "elbow_angle": 129,
+        "body_lean": 156
+    },
+    {
+        "frame": 263,
+        "knee_angle": 147,
+        "elbow_angle": 132,
+        "body_lean": 156
+    },
+    {
+        "frame": 264,
+        "knee_angle": 147,
+        "elbow_angle": 134,
+        "body_lean": 156
+    },
+    {
+        "frame": 265,
+        "knee_angle": 122,
+        "elbow_angle": 135,
+        "body_lean": 157
+    },
+    {
+        "frame": 266,
+        "knee_angle": 118,
+        "elbow_angle": 135,
+        "body_lean": 157
+    },
+    {
+        "frame": 267,
+        "knee_angle": 118,
+        "elbow_angle": 136,
+        "body_lean": 157
+    },
+    {
+        "frame": 268,
+        "knee_angle": 92,
+        "elbow_angle": 146,
+        "body_lean": 160
+    },
+    {
+        "frame": 269,
+        "knee_angle": 89,
+        "elbow_angle": 148,
+        "body_lean": 160
+    },
+    {
+        "frame": 270,
+        "knee_angle": 88,
+        "elbow_angle": 148,
+        "body_lean": 160
+    },
+    {
+        "frame": 271,
+        "knee_angle": 66,
+        "elbow_angle": 147,
+        "body_lean": 162
+    },
+    {
+        "frame": 272,
+        "knee_angle": 64,
+        "elbow_angle": 144,
+        "body_lean": 162
+    },
+    {
+        "frame": 273,
+        "knee_angle": 63,
+        "elbow_angle": 143,
+        "body_lean": 163
+    },
+    {
+        "frame": 274,
+        "knee_angle": 168,
+        "elbow_angle": 151,
+        "body_lean": 163
+    },
+    {
+        "frame": 275,
+        "knee_angle": 168,
+        "elbow_angle": 151,
+        "body_lean": 164
+    },
+    {
+        "frame": 276,
+        "knee_angle": 169,
+        "elbow_angle": 151,
+        "body_lean": 164
+    },
+    {
+        "frame": 277,
+        "knee_angle": 157,
+        "elbow_angle": 154,
+        "body_lean": 165
+    },
+    {
+        "frame": 278,
+        "knee_angle": 156,
+        "elbow_angle": 152,
+        "body_lean": 166
+    },
+    {
+        "frame": 279,
+        "knee_angle": 155,
+        "elbow_angle": 153,
+        "body_lean": 166
+    },
+    {
+        "frame": 280,
+        "knee_angle": 44,
+        "elbow_angle": 161,
+        "body_lean": 168
+    },
+    {
+        "frame": 281,
+        "knee_angle": 39,
+        "elbow_angle": 152,
+        "body_lean": 168
+    },
+    {
+        "frame": 282,
+        "knee_angle": 40,
+        "elbow_angle": 159,
+        "body_lean": 167
+    },
+    {
+        "frame": 283,
+        "knee_angle": 57,
+        "elbow_angle": 47,
+        "body_lean": 171
+    },
+    {
+        "frame": 284,
+        "knee_angle": 61,
+        "elbow_angle": 50,
+        "body_lean": 171
+    },
+    {
+        "frame": 285,
+        "knee_angle": 62,
+        "elbow_angle": 100,
+        "body_lean": 172
+    },
+    {
+        "frame": 286,
+        "knee_angle": 75,
+        "elbow_angle": 143,
+        "body_lean": 178
+    },
+    {
+        "frame": 287,
+        "knee_angle": 82,
+        "elbow_angle": 52,
+        "body_lean": 179
+    },
+    {
+        "frame": 288,
+        "knee_angle": 83,
+        "elbow_angle": 53,
+        "body_lean": 179
+    },
+    {
+        "frame": 289,
+        "knee_angle": 103,
+        "elbow_angle": 118,
+        "body_lean": 177
+    },
+    {
+        "frame": 290,
+        "knee_angle": 106,
+        "elbow_angle": 127,
+        "body_lean": 175
+    },
+    {
+        "frame": 291,
+        "knee_angle": 108,
+        "elbow_angle": 130,
+        "body_lean": 173
+    },
+    {
+        "frame": 292,
+        "knee_angle": 126,
+        "elbow_angle": 131,
+        "body_lean": 173
+    },
+    {
+        "frame": 293,
+        "knee_angle": 128,
+        "elbow_angle": 131,
+        "body_lean": 173
+    },
+    {
+        "frame": 294,
+        "knee_angle": 129,
+        "elbow_angle": 131,
+        "body_lean": 172
+    },
+    {
+        "frame": 295,
+        "knee_angle": 145,
+        "elbow_angle": 135,
+        "body_lean": 171
+    },
+    {
+        "frame": 296,
+        "knee_angle": 148,
+        "elbow_angle": 138,
+        "body_lean": 171
+    },
+    {
+        "frame": 297,
+        "knee_angle": 149,
+        "elbow_angle": 139,
+        "body_lean": 171
+    },
+    {
+        "frame": 298,
+        "knee_angle": 158,
+        "elbow_angle": 154,
+        "body_lean": 170
+    },
+    {
+        "frame": 299,
+        "knee_angle": 160,
+        "elbow_angle": 154,
+        "body_lean": 171
+    },
+    {
+        "frame": 300,
+        "knee_angle": 160,
+        "elbow_angle": 151,
+        "body_lean": 171
+    },
+    {
+        "frame": 301,
+        "knee_angle": 160,
+        "elbow_angle": 45,
+        "body_lean": 173
+    },
+    {
+        "frame": 302,
+        "knee_angle": 160,
+        "elbow_angle": 48,
+        "body_lean": 174
+    },
+    {
+        "frame": 303,
+        "knee_angle": 160,
+        "elbow_angle": 45,
+        "body_lean": 174
+    },
+    {
+        "frame": 304,
+        "knee_angle": 163,
+        "elbow_angle": 171,
+        "body_lean": 174
+    },
+    {
+        "frame": 305,
+        "knee_angle": 165,
+        "elbow_angle": 166,
+        "body_lean": 173
+    },
+    {
+        "frame": 306,
+        "knee_angle": 165,
+        "elbow_angle": 175,
+        "body_lean": 174
+    },
+    {
+        "frame": 307,
+        "knee_angle": 147,
+        "elbow_angle": 171,
+        "body_lean": 176
+    },
+    {
+        "frame": 308,
+        "knee_angle": 22,
+        "elbow_angle": 159,
+        "body_lean": 176
+    },
+    {
+        "frame": 309,
+        "knee_angle": 101,
+        "elbow_angle": 160,
+        "body_lean": 176
+    },
+    {
+        "frame": 310,
+        "knee_angle": 147,
+        "elbow_angle": 154,
+        "body_lean": 178
+    },
+    {
+        "frame": 311,
+        "knee_angle": 149,
+        "elbow_angle": 151,
+        "body_lean": 178
+    },
+    {
+        "frame": 312,
+        "knee_angle": 150,
+        "elbow_angle": 150,
+        "body_lean": 179
+    },
+    {
+        "frame": 313,
+        "knee_angle": 154,
+        "elbow_angle": 124,
+        "body_lean": 176
+    },
+    {
+        "frame": 314,
+        "knee_angle": 154,
+        "elbow_angle": 126,
+        "body_lean": 178
+    },
+    {
+        "frame": 315,
+        "knee_angle": 154,
+        "elbow_angle": 126,
+        "body_lean": 179
+    },
+    {
+        "frame": 316,
+        "knee_angle": 165,
+        "elbow_angle": 109,
+        "body_lean": 178
+    },
+    {
+        "frame": 317,
+        "knee_angle": 167,
+        "elbow_angle": 110,
+        "body_lean": 179
+    },
+    {
+        "frame": 318,
+        "knee_angle": 169,
+        "elbow_angle": 112,
+        "body_lean": 179
+    },
+    {
+        "frame": 319,
+        "knee_angle": 163,
+        "elbow_angle": 104,
+        "body_lean": 178
+    },
+    {
+        "frame": 320,
+        "knee_angle": 162,
+        "elbow_angle": 99,
+        "body_lean": 178
+    },
+    {
+        "frame": 321,
+        "knee_angle": 162,
+        "elbow_angle": 101,
+        "body_lean": 178
+    },
+    {
+        "frame": 322,
+        "knee_angle": 133,
+        "elbow_angle": 116,
+        "body_lean": 179
+    },
+    {
+        "frame": 323,
+        "knee_angle": 127,
+        "elbow_angle": 114,
+        "body_lean": 179
+    },
+    {
+        "frame": 324,
+        "knee_angle": 126,
+        "elbow_angle": 117,
+        "body_lean": 177
+    },
+    {
+        "frame": 325,
+        "knee_angle": 96,
+        "elbow_angle": 125,
+        "body_lean": 178
+    },
+    {
+        "frame": 326,
+        "knee_angle": 90,
+        "elbow_angle": 124,
+        "body_lean": 178
+    },
+    {
+        "frame": 327,
+        "knee_angle": 89,
+        "elbow_angle": 124,
+        "body_lean": 177
+    },
+    {
+        "frame": 328,
+        "knee_angle": 62,
+        "elbow_angle": 139,
+        "body_lean": 178
+    },
+    {
+        "frame": 329,
+        "knee_angle": 59,
+        "elbow_angle": 149,
+        "body_lean": 178
+    },
+    {
+        "frame": 330,
+        "knee_angle": 62,
+        "elbow_angle": 150,
+        "body_lean": 176
+    },
+    {
+        "frame": 331,
+        "knee_angle": 39,
+        "elbow_angle": 83,
+        "body_lean": 177
+    },
+    {
+        "frame": 332,
+        "knee_angle": 37,
+        "elbow_angle": 57,
+        "body_lean": 177
+    },
+    {
+        "frame": 333,
+        "knee_angle": 37,
+        "elbow_angle": 90,
+        "body_lean": 177
+    },
+    {
+        "frame": 334,
+        "knee_angle": 33,
+        "elbow_angle": 50,
+        "body_lean": 170
+    },
+    {
+        "frame": 335,
+        "knee_angle": 31,
+        "elbow_angle": 47,
+        "body_lean": 169
+    },
+    {
+        "frame": 336,
+        "knee_angle": 29,
+        "elbow_angle": 48,
+        "body_lean": 169
+    },
+    {
+        "frame": 337,
+        "knee_angle": 108,
+        "elbow_angle": 33,
+        "body_lean": 167
+    },
+    {
+        "frame": 338,
+        "knee_angle": 64,
+        "elbow_angle": 31,
+        "body_lean": 167
+    },
+    {
+        "frame": 339,
+        "knee_angle": 51,
+        "elbow_angle": 30,
+        "body_lean": 168
+    },
+    {
+        "frame": 340,
+        "knee_angle": 54,
+        "elbow_angle": 29,
+        "body_lean": 160
+    },
+    {
+        "frame": 341,
+        "knee_angle": 59,
+        "elbow_angle": 30,
+        "body_lean": 159
+    },
+    {
+        "frame": 342,
+        "knee_angle": 60,
+        "elbow_angle": 31,
+        "body_lean": 160
+    },
+    {
+        "frame": 343,
+        "knee_angle": 69,
+        "elbow_angle": 42,
+        "body_lean": 154
+    },
+    {
+        "frame": 344,
+        "knee_angle": 70,
+        "elbow_angle": 46,
+        "body_lean": 153
+    },
+    {
+        "frame": 345,
+        "knee_angle": 73,
+        "elbow_angle": 47,
+        "body_lean": 153
+    },
+    {
+        "frame": 346,
+        "knee_angle": 76,
+        "elbow_angle": 53,
+        "body_lean": 150
+    },
+    {
+        "frame": 347,
+        "knee_angle": 79,
+        "elbow_angle": 53,
+        "body_lean": 150
+    },
+    {
+        "frame": 348,
+        "knee_angle": 83,
+        "elbow_angle": 55,
+        "body_lean": 150
+    },
+    {
+        "frame": 349,
+        "knee_angle": 95,
+        "elbow_angle": 63,
+        "body_lean": 148
+    },
+    {
+        "frame": 350,
+        "knee_angle": 95,
+        "elbow_angle": 61,
+        "body_lean": 148
+    },
+    {
+        "frame": 351,
+        "knee_angle": 94,
+        "elbow_angle": 62,
+        "body_lean": 147
+    },
+    {
+        "frame": 352,
+        "knee_angle": 111,
+        "elbow_angle": 73,
+        "body_lean": 149
+    },
+    {
+        "frame": 353,
+        "knee_angle": 111,
+        "elbow_angle": 76,
+        "body_lean": 147
+    },
+    {
+        "frame": 354,
+        "knee_angle": 110,
+        "elbow_angle": 76,
+        "body_lean": 147
+    },
+    {
+        "frame": 355,
+        "knee_angle": 128,
+        "elbow_angle": 100,
+        "body_lean": 148
+    },
+    {
+        "frame": 356,
+        "knee_angle": 134,
+        "elbow_angle": 108,
+        "body_lean": 146
+    },
+    {
+        "frame": 357,
+        "knee_angle": 134,
+        "elbow_angle": 102,
+        "body_lean": 146
+    },
+    {
+        "frame": 358,
+        "knee_angle": 150,
+        "elbow_angle": 154,
+        "body_lean": 153
+    },
+    {
+        "frame": 359,
+        "knee_angle": 42,
+        "elbow_angle": 167,
+        "body_lean": 153
+    },
+    {
+        "frame": 360,
+        "knee_angle": 38,
+        "elbow_angle": 160,
+        "body_lean": 153
+    },
+    {
+        "frame": 361,
+        "knee_angle": 89,
+        "elbow_angle": 34,
+        "body_lean": 153
+    },
+    {
+        "frame": 362,
+        "knee_angle": 87,
+        "elbow_angle": 42,
+        "body_lean": 153
+    },
+    {
+        "frame": 363,
+        "knee_angle": 108,
+        "elbow_angle": 48,
+        "body_lean": 150
+    },
+    {
+        "frame": 364,
+        "knee_angle": 168,
+        "elbow_angle": 81,
+        "body_lean": 155
+    },
+    {
+        "frame": 365,
+        "knee_angle": 168,
+        "elbow_angle": 87,
+        "body_lean": 156
+    },
+    {
+        "frame": 366,
+        "knee_angle": 169,
+        "elbow_angle": 98,
+        "body_lean": 156
+    },
+    {
+        "frame": 367,
+        "knee_angle": 178,
+        "elbow_angle": 84,
+        "body_lean": 161
+    },
+    {
+        "frame": 368,
+        "knee_angle": 178,
+        "elbow_angle": 92,
+        "body_lean": 163
+    },
+    {
+        "frame": 369,
+        "knee_angle": 177,
+        "elbow_angle": 91,
+        "body_lean": 164
+    },
+    {
+        "frame": 370,
+        "knee_angle": 156,
+        "elbow_angle": 176,
+        "body_lean": 163
+    },
+    {
+        "frame": 371,
+        "knee_angle": 171,
+        "elbow_angle": 161,
+        "body_lean": 162
+    },
+    {
+        "frame": 372,
+        "knee_angle": 173,
+        "elbow_angle": 163,
+        "body_lean": 162
+    },
+    {
+        "frame": 373
+    },
+    {
+        "frame": 374,
+        "knee_angle": 159,
+        "elbow_angle": 158,
+        "body_lean": 170
+    },
+    {
+        "frame": 375
+    },
+    {
+        "frame": 376,
+        "knee_angle": 179,
+        "elbow_angle": 170,
+        "body_lean": 156
+    },
+    {
+        "frame": 377,
+        "knee_angle": 179,
+        "elbow_angle": 172,
+        "body_lean": 155
+    },
+    {
+        "frame": 378,
+        "knee_angle": 179,
+        "elbow_angle": 173,
+        "body_lean": 155
+    },
+    {
+        "frame": 379,
+        "knee_angle": 175,
+        "elbow_angle": 178,
+        "body_lean": 156
+    },
+    {
+        "frame": 380,
+        "knee_angle": 173,
+        "elbow_angle": 176,
+        "body_lean": 156
+    },
+    {
+        "frame": 381,
+        "knee_angle": 173,
+        "elbow_angle": 174,
+        "body_lean": 156
+    },
+    {
+        "frame": 382,
+        "knee_angle": 171,
+        "elbow_angle": 171,
+        "body_lean": 156
+    },
+    {
+        "frame": 383,
+        "knee_angle": 170,
+        "elbow_angle": 170,
+        "body_lean": 156
+    },
+    {
+        "frame": 384,
+        "knee_angle": 170,
+        "elbow_angle": 168,
+        "body_lean": 156
+    },
+    {
+        "frame": 385,
+        "knee_angle": 166,
+        "elbow_angle": 168,
+        "body_lean": 156
+    },
+    {
+        "frame": 386,
+        "knee_angle": 166,
+        "elbow_angle": 170,
+        "body_lean": 156
+    },
+    {
+        "frame": 387,
+        "knee_angle": 165,
+        "elbow_angle": 169,
+        "body_lean": 156
+    },
+    {
+        "frame": 388,
+        "knee_angle": 161,
+        "elbow_angle": 175,
+        "body_lean": 157
+    },
+    {
+        "frame": 389,
+        "knee_angle": 162,
+        "elbow_angle": 175,
+        "body_lean": 157
+    },
+    {
+        "frame": 390,
+        "knee_angle": 163,
+        "elbow_angle": 175,
+        "body_lean": 157
+    },
+    {
+        "frame": 391,
+        "knee_angle": 168,
+        "elbow_angle": 175,
+        "body_lean": 160
+    },
+    {
+        "frame": 392,
+        "knee_angle": 171,
+        "elbow_angle": 175,
+        "body_lean": 160
+    },
+    {
+        "frame": 393,
+        "knee_angle": 171,
+        "elbow_angle": 176,
+        "body_lean": 159
+    },
+    {
+        "frame": 394,
+        "knee_angle": 173,
+        "elbow_angle": 179,
+        "body_lean": 163
+    },
+    {
+        "frame": 395,
+        "knee_angle": 172,
+        "elbow_angle": 177,
+        "body_lean": 164
+    },
+    {
+        "frame": 396,
+        "knee_angle": 171,
+        "elbow_angle": 176,
+        "body_lean": 164
+    },
+    {
+        "frame": 397,
+        "knee_angle": 173,
+        "elbow_angle": 171,
+        "body_lean": 168
+    },
+    {
+        "frame": 398,
+        "knee_angle": 173,
+        "elbow_angle": 170,
+        "body_lean": 169
+    },
+    {
+        "frame": 399,
+        "knee_angle": 174,
+        "elbow_angle": 170,
+        "body_lean": 169
+    },
+    {
+        "frame": 400,
+        "knee_angle": 169,
+        "elbow_angle": 165,
+        "body_lean": 173
+    },
+    {
+        "frame": 401,
+        "knee_angle": 168,
+        "elbow_angle": 169,
+        "body_lean": 175
+    },
+    {
+        "frame": 402,
+        "knee_angle": 167,
+        "elbow_angle": 171,
+        "body_lean": 175
+    },
+    {
+        "frame": 403,
+        "knee_angle": 165,
+        "elbow_angle": 166,
+        "body_lean": 179
+    },
+    {
+        "frame": 404,
+        "knee_angle": 165,
+        "elbow_angle": 168,
+        "body_lean": 178
+    },
+    {
+        "frame": 405,
+        "knee_angle": 165,
+        "elbow_angle": 171,
+        "body_lean": 177
+    },
+    {
+        "frame": 406,
+        "knee_angle": 162,
+        "elbow_angle": 166,
+        "body_lean": 173
+    },
+    {
+        "frame": 407,
+        "knee_angle": 161,
+        "elbow_angle": 171,
+        "body_lean": 172
+    },
+    {
+        "frame": 408,
+        "knee_angle": 160,
+        "elbow_angle": 166,
+        "body_lean": 171
+    },
+    {
+        "frame": 409,
+        "knee_angle": 152,
+        "elbow_angle": 173,
+        "body_lean": 161
+    },
+    {
+        "frame": 410,
+        "knee_angle": 150,
+        "elbow_angle": 173,
+        "body_lean": 159
+    },
+    {
+        "frame": 411,
+        "knee_angle": 149,
+        "elbow_angle": 174,
+        "body_lean": 157
+    },
+    {
+        "frame": 412,
+        "knee_angle": 143,
+        "elbow_angle": 160,
+        "body_lean": 151
+    },
+    {
+        "frame": 413,
+        "knee_angle": 140,
+        "elbow_angle": 157,
+        "body_lean": 149
+    },
+    {
+        "frame": 414,
+        "knee_angle": 139,
+        "elbow_angle": 159,
+        "body_lean": 146
+    },
+    {
+        "frame": 415,
+        "knee_angle": 132,
+        "elbow_angle": 172,
+        "body_lean": 139
+    },
+    {
+        "frame": 416,
+        "knee_angle": 124,
+        "elbow_angle": 173,
+        "body_lean": 137
+    },
+    {
+        "frame": 417,
+        "knee_angle": 123,
+        "elbow_angle": 167,
+        "body_lean": 134
+    },
+    {
+        "frame": 418,
+        "knee_angle": 132,
+        "elbow_angle": 151,
+        "body_lean": 126
+    },
+    {
+        "frame": 419,
+        "knee_angle": 136,
+        "elbow_angle": 157,
+        "body_lean": 123
+    },
+    {
+        "frame": 420,
+        "knee_angle": 139,
+        "elbow_angle": 153,
+        "body_lean": 119
+    },
+    {
+        "frame": 421,
+        "knee_angle": 145,
+        "elbow_angle": 162,
+        "body_lean": 114
+    },
+    {
+        "frame": 422,
+        "knee_angle": 162,
+        "elbow_angle": 162,
+        "body_lean": 114
+    },
+    {
+        "frame": 423,
+        "knee_angle": 167,
+        "elbow_angle": 165,
+        "body_lean": 114
+    },
+    {
+        "frame": 424,
+        "knee_angle": 176,
+        "elbow_angle": 178,
+        "body_lean": 108
+    },
+    {
+        "frame": 425,
+        "knee_angle": 177,
+        "elbow_angle": 177,
+        "body_lean": 93
+    },
+    {
+        "frame": 426,
+        "knee_angle": 165,
+        "elbow_angle": 178,
+        "body_lean": 97
+    },
+    {
+        "frame": 427,
+        "knee_angle": 179,
+        "elbow_angle": 140,
+        "body_lean": 99
+    },
+    {
+        "frame": 428,
+        "knee_angle": 155,
+        "elbow_angle": 153,
+        "body_lean": 95
+    },
+    {
+        "frame": 429,
+        "knee_angle": 152,
+        "elbow_angle": 167,
+        "body_lean": 90
+    },
+    {
+        "frame": 430,
+        "knee_angle": 115,
+        "elbow_angle": 167,
+        "body_lean": 95
+    },
+    {
+        "frame": 431,
+        "knee_angle": 124,
+        "elbow_angle": 174,
+        "body_lean": 94
+    },
+    {
+        "frame": 432,
+        "knee_angle": 123,
+        "elbow_angle": 164,
+        "body_lean": 94
+    },
+    {
+        "frame": 433,
+        "knee_angle": 120,
+        "elbow_angle": 174,
+        "body_lean": 98
+    },
+    {
+        "frame": 434,
+        "knee_angle": 121,
+        "elbow_angle": 175,
+        "body_lean": 96
+    },
+    {
+        "frame": 435,
+        "knee_angle": 122,
+        "elbow_angle": 177,
+        "body_lean": 92
+    },
+    {
+        "frame": 436,
+        "knee_angle": 121,
+        "elbow_angle": 171,
+        "body_lean": 72
+    },
+    {
+        "frame": 437,
+        "knee_angle": 121,
+        "elbow_angle": 163,
+        "body_lean": 77
+    },
+    {
+        "frame": 438,
+        "knee_angle": 120,
+        "elbow_angle": 178,
+        "body_lean": 80
+    },
+    {
+        "frame": 439,
+        "knee_angle": 130,
+        "elbow_angle": 176,
+        "body_lean": 78
+    },
+    {
+        "frame": 440,
+        "knee_angle": 130,
+        "elbow_angle": 176,
+        "body_lean": 78
+    },
+    {
+        "frame": 441,
+        "knee_angle": 132,
+        "elbow_angle": 176,
+        "body_lean": 77
+    },
+    {
+        "frame": 442,
+        "knee_angle": 145,
+        "elbow_angle": 175,
+        "body_lean": 79
+    },
+    {
+        "frame": 443,
+        "knee_angle": 144,
+        "elbow_angle": 170,
+        "body_lean": 82
+    },
+    {
+        "frame": 444,
+        "knee_angle": 143,
+        "elbow_angle": 176,
+        "body_lean": 83
+    },
+    {
+        "frame": 445,
+        "knee_angle": 147,
+        "elbow_angle": 167,
+        "body_lean": 104
+    },
+    {
+        "frame": 446,
+        "knee_angle": 151,
+        "elbow_angle": 157,
+        "body_lean": 115
+    },
+    {
+        "frame": 447,
+        "knee_angle": 150,
+        "elbow_angle": 178,
+        "body_lean": 104
+    },
+    {
+        "frame": 448,
+        "knee_angle": 129,
+        "elbow_angle": 176,
+        "body_lean": 120
+    },
+    {
+        "frame": 449,
+        "knee_angle": 138,
+        "elbow_angle": 174,
+        "body_lean": 119
+    },
+    {
+        "frame": 450,
+        "knee_angle": 132,
+        "elbow_angle": 168,
+        "body_lean": 112
+    },
+    {
+        "frame": 451,
+        "knee_angle": 146,
+        "elbow_angle": 175,
+        "body_lean": 95
+    },
+    {
+        "frame": 452,
+        "knee_angle": 147,
+        "elbow_angle": 156,
+        "body_lean": 93
+    },
+    {
+        "frame": 453,
+        "knee_angle": 150,
+        "elbow_angle": 156,
+        "body_lean": 94
+    },
+    {
+        "frame": 454,
+        "knee_angle": 153,
+        "elbow_angle": 173,
+        "body_lean": 95
+    },
+    {
+        "frame": 455,
+        "knee_angle": 155,
+        "elbow_angle": 159,
+        "body_lean": 95
+    },
+    {
+        "frame": 456,
+        "knee_angle": 155,
+        "elbow_angle": 170,
+        "body_lean": 100
+    },
+    {
+        "frame": 457,
+        "knee_angle": 159,
+        "elbow_angle": 167,
+        "body_lean": 100
+    },
+    {
+        "frame": 458,
+        "knee_angle": 162,
+        "elbow_angle": 166,
+        "body_lean": 101
+    },
+    {
+        "frame": 459,
+        "knee_angle": 160,
+        "elbow_angle": 163,
+        "body_lean": 102
+    },
+    {
+        "frame": 460,
+        "knee_angle": 166,
+        "elbow_angle": 166,
+        "body_lean": 102
+    },
+    {
+        "frame": 461,
+        "knee_angle": 165,
+        "elbow_angle": 167,
+        "body_lean": 103
+    },
+    {
+        "frame": 462,
+        "knee_angle": 164,
+        "elbow_angle": 170,
+        "body_lean": 104
+    },
+    {
+        "frame": 463,
+        "knee_angle": 156,
+        "elbow_angle": 172,
+        "body_lean": 102
+    },
+    {
+        "frame": 464,
+        "knee_angle": 151,
+        "elbow_angle": 172,
+        "body_lean": 101
+    },
+    {
+        "frame": 465,
+        "knee_angle": 151,
+        "elbow_angle": 172,
+        "body_lean": 99
+    },
+    {
+        "frame": 466,
+        "knee_angle": 165,
+        "elbow_angle": 172,
+        "body_lean": 102
+    },
+    {
+        "frame": 467,
+        "knee_angle": 167,
+        "elbow_angle": 173,
+        "body_lean": 103
+    },
+    {
+        "frame": 468,
+        "knee_angle": 166,
+        "elbow_angle": 174,
+        "body_lean": 103
+    },
+    {
+        "frame": 469,
+        "knee_angle": 145,
+        "elbow_angle": 169,
+        "body_lean": 104
+    },
+    {
+        "frame": 470,
+        "knee_angle": 142,
+        "elbow_angle": 170,
+        "body_lean": 104
+    },
+    {
+        "frame": 471,
+        "knee_angle": 141,
+        "elbow_angle": 170,
+        "body_lean": 104
+    },
+    {
+        "frame": 472,
+        "knee_angle": 127,
+        "elbow_angle": 159,
+        "body_lean": 104
+    },
+    {
+        "frame": 473,
+        "knee_angle": 128,
+        "elbow_angle": 157,
+        "body_lean": 104
+    },
+    {
+        "frame": 474,
+        "knee_angle": 128,
+        "elbow_angle": 156,
+        "body_lean": 104
+    },
+    {
+        "frame": 475,
+        "knee_angle": 147,
+        "elbow_angle": 135,
+        "body_lean": 106
+    },
+    {
+        "frame": 476,
+        "knee_angle": 139,
+        "elbow_angle": 132,
+        "body_lean": 105
+    },
+    {
+        "frame": 477,
+        "knee_angle": 125,
+        "elbow_angle": 131,
+        "body_lean": 105
+    },
+    {
+        "frame": 478,
+        "knee_angle": 101,
+        "elbow_angle": 116,
+        "body_lean": 105
+    },
+    {
+        "frame": 479,
+        "knee_angle": 105,
+        "elbow_angle": 115,
+        "body_lean": 107
+    },
+    {
+        "frame": 480,
+        "knee_angle": 110,
+        "elbow_angle": 119,
+        "body_lean": 108
+    },
+    {
+        "frame": 481,
+        "knee_angle": 154,
+        "elbow_angle": 126,
+        "body_lean": 112
+    },
+    {
+        "frame": 482,
+        "knee_angle": 154,
+        "elbow_angle": 127,
+        "body_lean": 112
+    },
+    {
+        "frame": 483,
+        "knee_angle": 179,
+        "elbow_angle": 127,
+        "body_lean": 112
+    },
+    {
+        "frame": 484,
+        "knee_angle": 60,
+        "elbow_angle": 133,
+        "body_lean": 112
+    },
+    {
+        "frame": 485,
+        "knee_angle": 84,
+        "elbow_angle": 133,
+        "body_lean": 113
+    },
+    {
+        "frame": 486,
+        "knee_angle": 60,
+        "elbow_angle": 136,
+        "body_lean": 111
+    },
+    {
+        "frame": 487,
+        "knee_angle": 175,
+        "elbow_angle": 135,
+        "body_lean": 112
+    },
+    {
+        "frame": 488,
+        "knee_angle": 154,
+        "elbow_angle": 137,
+        "body_lean": 112
+    },
+    {
+        "frame": 489,
+        "knee_angle": 168,
+        "elbow_angle": 136,
+        "body_lean": 112
+    },
+    {
+        "frame": 490,
+        "knee_angle": 171,
+        "elbow_angle": 127,
+        "body_lean": 114
+    },
+    {
+        "frame": 491,
+        "knee_angle": 169,
+        "elbow_angle": 131,
+        "body_lean": 115
+    },
+    {
+        "frame": 492,
+        "knee_angle": 170,
+        "elbow_angle": 126,
+        "body_lean": 114
+    },
+    {
+        "frame": 493,
+        "knee_angle": 66,
+        "elbow_angle": 121,
+        "body_lean": 116
+    },
+    {
+        "frame": 494,
+        "knee_angle": 65,
+        "elbow_angle": 125,
+        "body_lean": 119
+    },
+    {
+        "frame": 495,
+        "knee_angle": 64,
+        "elbow_angle": 122,
+        "body_lean": 120
+    },
+    {
+        "frame": 496,
+        "knee_angle": 63,
+        "elbow_angle": 114,
+        "body_lean": 121
+    },
+    {
+        "frame": 497,
+        "knee_angle": 67,
+        "elbow_angle": 120,
+        "body_lean": 122
+    },
+    {
+        "frame": 498,
+        "knee_angle": 65,
+        "elbow_angle": 114,
+        "body_lean": 123
+    },
+    {
+        "frame": 499,
+        "knee_angle": 86,
+        "elbow_angle": 111,
+        "body_lean": 127
+    },
+    {
+        "frame": 500,
+        "knee_angle": 86,
+        "elbow_angle": 110,
+        "body_lean": 127
+    },
+    {
+        "frame": 501,
+        "knee_angle": 85,
+        "elbow_angle": 110,
+        "body_lean": 128
+    },
+    {
+        "frame": 502,
+        "knee_angle": 100,
+        "elbow_angle": 111,
+        "body_lean": 133
+    },
+    {
+        "frame": 503,
+        "knee_angle": 99,
+        "elbow_angle": 111,
+        "body_lean": 132
+    },
+    {
+        "frame": 504,
+        "knee_angle": 98,
+        "elbow_angle": 110,
+        "body_lean": 132
+    },
+    {
+        "frame": 505,
+        "knee_angle": 117,
+        "elbow_angle": 110,
+        "body_lean": 134
+    },
+    {
+        "frame": 506,
+        "knee_angle": 121,
+        "elbow_angle": 113,
+        "body_lean": 135
+    },
+    {
+        "frame": 507,
+        "knee_angle": 122,
+        "elbow_angle": 108,
+        "body_lean": 136
+    },
+    {
+        "frame": 508,
+        "knee_angle": 134,
+        "elbow_angle": 107,
+        "body_lean": 139
+    },
+    {
+        "frame": 509,
+        "knee_angle": 138,
+        "elbow_angle": 112,
+        "body_lean": 140
+    },
+    {
+        "frame": 510,
+        "knee_angle": 137,
+        "elbow_angle": 113,
+        "body_lean": 142
+    },
+    {
+        "frame": 511,
+        "knee_angle": 147,
+        "elbow_angle": 109,
+        "body_lean": 144
+    },
+    {
+        "frame": 512,
+        "knee_angle": 149,
+        "elbow_angle": 110,
+        "body_lean": 145
+    },
+    {
+        "frame": 513,
+        "knee_angle": 151,
+        "elbow_angle": 112,
+        "body_lean": 145
+    },
+    {
+        "frame": 514,
+        "knee_angle": 160,
+        "elbow_angle": 114,
+        "body_lean": 149
+    },
+    {
+        "frame": 515,
+        "knee_angle": 161,
+        "elbow_angle": 111,
+        "body_lean": 150
+    },
+    {
+        "frame": 516,
+        "knee_angle": 160,
+        "elbow_angle": 114,
+        "body_lean": 150
+    },
+    {
+        "frame": 517,
+        "knee_angle": 155,
+        "elbow_angle": 109,
+        "body_lean": 153
+    },
+    {
+        "frame": 518,
+        "knee_angle": 156,
+        "elbow_angle": 109,
+        "body_lean": 154
+    },
+    {
+        "frame": 519,
+        "knee_angle": 158,
+        "elbow_angle": 110,
+        "body_lean": 154
+    },
+    {
+        "frame": 520,
+        "knee_angle": 155,
+        "elbow_angle": 140,
+        "body_lean": 156
+    },
+    {
+        "frame": 521,
+        "knee_angle": 151,
+        "elbow_angle": 145,
+        "body_lean": 157
+    },
+    {
+        "frame": 522,
+        "knee_angle": 151,
+        "elbow_angle": 145,
+        "body_lean": 158
+    },
+    {
+        "frame": 523,
+        "knee_angle": 175,
+        "elbow_angle": 175,
+        "body_lean": 154
+    },
+    {
+        "frame": 524,
+        "knee_angle": 166,
+        "elbow_angle": 176,
+        "body_lean": 151
+    },
+    {
+        "frame": 525,
+        "knee_angle": 165,
+        "elbow_angle": 179,
+        "body_lean": 152
+    },
+    {
+        "frame": 526,
+        "knee_angle": 131,
+        "elbow_angle": 153,
+        "body_lean": 152
+    },
+    {
+        "frame": 527,
+        "knee_angle": 154,
+        "elbow_angle": 155,
+        "body_lean": 148
+    },
+    {
+        "frame": 528,
+        "knee_angle": 145,
+        "elbow_angle": 107,
+        "body_lean": 144
+    },
+    {
+        "frame": 529
+    },
+    {
+        "frame": 530
+    },
+    {
+        "frame": 531
+    },
+    {
+        "frame": 532
+    },
+    {
+        "frame": 533
+    },
+    {
+        "frame": 534
+    },
+    {
+        "frame": 535
+    },
+    {
+        "frame": 536
+    },
+    {
+        "frame": 537
+    },
+    {
+        "frame": 538
+    },
+    {
+        "frame": 539
+    },
+    {
+        "frame": 540
+    },
+    {
+        "frame": 541
+    },
+    {
+        "frame": 542
+    },
+    {
+        "frame": 543
+    },
+    {
+        "frame": 544
+    },
+    {
+        "frame": 545
+    },
+    {
+        "frame": 546
+    },
+    {
+        "frame": 547
+    },
+    {
+        "frame": 548
+    },
+    {
+        "frame": 549
+    },
+    {
+        "frame": 550
+    },
+    {
+        "frame": 551
+    },
+    {
+        "frame": 552
+    },
+    {
+        "frame": 553
+    },
+    {
+        "frame": 554
+    },
+    {
+        "frame": 555
+    },
+    {
+        "frame": 556
+    },
+    {
+        "frame": 557
+    },
+    {
+        "frame": 558
+    },
+    {
+        "frame": 559
+    },
+    {
+        "frame": 560
+    },
+    {
+        "frame": 561
+    },
+    {
+        "frame": 562
+    },
+    {
+        "frame": 563
+    },
+    {
+        "frame": 564
+    },
+    {
+        "frame": 565
+    },
+    {
+        "frame": 566
+    },
+    {
+        "frame": 567
+    },
+    {
+        "frame": 568
+    },
+    {
+        "frame": 569
+    },
+    {
+        "frame": 570
+    },
+    {
+        "frame": 571
+    },
+    {
+        "frame": 572
+    },
+    {
+        "frame": 573
+    },
+    {
+        "frame": 574
+    },
+    {
+        "frame": 575
+    },
+    {
+        "frame": 576
+    },
+    {
+        "frame": 577
+    },
+    {
+        "frame": 578
+    },
+    {
+        "frame": 579
+    },
+    {
+        "frame": 580
+    },
+    {
+        "frame": 581
+    },
+    {
+        "frame": 582
+    },
+    {
+        "frame": 583
+    },
+    {
+        "frame": 584
+    },
+    {
+        "frame": 585
+    },
+    {
+        "frame": 586
+    },
+    {
+        "frame": 587
+    },
+    {
+        "frame": 588
+    },
+    {
+        "frame": 589
+    },
+    {
+        "frame": 590
+    },
+    {
+        "frame": 591
+    },
+    {
+        "frame": 592
+    },
+    {
+        "frame": 593
+    },
+    {
+        "frame": 594
+    },
+    {
+        "frame": 595
+    },
+    {
+        "frame": 596
+    },
+    {
+        "frame": 597
+    },
+    {
+        "frame": 598
+    },
+    {
+        "frame": 599
+    },
+    {
+        "frame": 600
+    },
+    {
+        "frame": 601
+    },
+    {
+        "frame": 602
+    },
+    {
+        "frame": 603
+    },
+    {
+        "frame": 604
+    },
+    {
+        "frame": 605
+    },
+    {
+        "frame": 606
+    },
+    {
+        "frame": 607
+    },
+    {
+        "frame": 608
+    },
+    {
+        "frame": 609
+    },
+    {
+        "frame": 610
+    },
+    {
+        "frame": 611
+    },
+    {
+        "frame": 612
+    },
+    {
+        "frame": 613,
+        "knee_angle": 174,
+        "elbow_angle": 169,
+        "body_lean": 178
+    },
+    {
+        "frame": 614,
+        "knee_angle": 171,
+        "elbow_angle": 172,
+        "body_lean": 177
+    },
+    {
+        "frame": 615,
+        "knee_angle": 167,
+        "elbow_angle": 170,
+        "body_lean": 176
+    },
+    {
+        "frame": 616,
+        "knee_angle": 176,
+        "elbow_angle": 176,
+        "body_lean": 175
+    },
+    {
+        "frame": 617,
+        "knee_angle": 170,
+        "elbow_angle": 178,
+        "body_lean": 174
+    },
+    {
+        "frame": 618,
+        "knee_angle": 155,
+        "elbow_angle": 158,
+        "body_lean": 173
+    },
+    {
+        "frame": 619,
+        "knee_angle": 166,
+        "elbow_angle": 173,
+        "body_lean": 174
+    },
+    {
+        "frame": 620,
+        "knee_angle": 172,
+        "elbow_angle": 133,
+        "body_lean": 173
+    },
+    {
+        "frame": 621,
+        "knee_angle": 172,
+        "elbow_angle": 133,
+        "body_lean": 173
+    },
+    {
+        "frame": 622
+    },
+    {
+        "frame": 623
+    },
+    {
+        "frame": 624
+    },
+    {
+        "frame": 625
+    },
+    {
+        "frame": 626
+    },
+    {
+        "frame": 627
+    }
+]
